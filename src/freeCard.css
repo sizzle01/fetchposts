@@ -33,11 +33,13 @@
   font-size: 21px !important;
 }
 .sociallogo {
-  float: right;
-  margin-left: 40vw;
+  justify-content: flex-end !important;
+  margin-left: 27vw !important;
 }
 .sociallogo img {
-  width: 30px;
+  width: 45px;
+  margin-top: -12px;
+  margin-bottom: 20px;
 }
 .time {
   display: flex !important;

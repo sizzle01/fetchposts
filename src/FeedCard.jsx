@@ -37,10 +37,10 @@ const FeedCard = () => {
           <Grid item className="timevalue">
             31/03/2021
           </Grid>
+          <Grid item className="sociallogo">
+            <img src={Insta} alt="yourpic" />
+          </Grid>
         </Grid>
-        <div className="sociallogo">
-          <img src={Insta} alt="yourpic" />
-        </div>
       </Grid>
       <div className="margin"></div>
     </div>
