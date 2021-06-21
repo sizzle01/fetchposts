@@ -1,0 +1,52 @@
+.app {
+  background-color: #ffff;
+}
+
+.socialdesc {
+  margin-top: 200px !important;
+}
+.socialpicture {
+  margin-top: 200px !important;
+}
+.socialpicture img {
+  width: 250px;
+  height: 250px;
+  border-radius: 10%;
+}
+.socialicon {
+  background-color: #fff;
+  border-radius: 12px;
+  border: 1px solid #8888;
+}
+.icon {
+  font-size: 35px !important;
+}
+.socialname {
+  font-weight: 700;
+  font-size: 21px;
+}
+
+.social-text h4 {
+  margin-top: 50px !important;
+  width: 300px;
+  font-weight: 700 !important;
+  font-size: 21px !important;
+}
+.sociallogo {
+  float: right;
+  margin-left: 40vw;
+}
+.sociallogo img {
+  width: 30px;
+}
+.time {
+  display: flex !important;
+}
+.timevalue {
+  font-weight: 16px !important;
+}
+.margin {
+  height: 2px;
+  width: 100%;
+  background-color: #8888;
+}
