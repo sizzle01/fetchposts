@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./freeCard.css";
-import Time from "./Time";
+
 import { Typography, Grid } from "@material-ui/core";
 import InstagramIcon from "@material-ui/icons/Instagram";
 import Picture from "./images/picture.jpeg";
@@ -31,9 +31,7 @@ const FeedCard = () => {
       </Grid>
       <Grid container className="time">
         <Grid container spacing={2}>
-          <Grid item className="timevalue">
-            12:00PM
-          </Grid>
+          <Grid item className="timevalue"></Grid>
           <Grid item className="timevalue">
             31/03/2021
           </Grid>

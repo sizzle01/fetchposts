@@ -1,0 +1,18 @@
+.custom_btn {
+  border: 2px solid #ff4c4c;
+  border: 16px, 80px, 16px, 80px;
+  background-color: red;
+}
+
+.custom_btn .btn_icon_container > .MuiSvgIcon-root {
+  font-size: 16px !important;
+}
+.custom_btn .btn_text {
+  font-size: 18px !important;
+  font: bold;
+  font-family: nunito;
+  color: #ff4c4c;
+  text-align: center;
+  width: 100%;
+  font-size: 18px;
+}
