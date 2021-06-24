@@ -1,6 +1,7 @@
 import "./App.css";
 import FeedCard from "./FeedCard.jsx";
 import CustomButton from "./components/Button/CustomButton";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -10,6 +11,9 @@ function App() {
       </div>
       <div>
         <CustomButton text="Get Started" />
+      </div>
+      <div>
+        <Footer />
       </div>
     </>
   );
